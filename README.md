@@ -21,6 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
 
 --- 
+#### 🧐 Onde você pode me encontrar
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/gustavo-vncsl/)
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=gustavovncsl&theme=default)](https://github.com/gustavovncsl/)  [![gustavovncsl](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovncsl&hide=html&layout=compact&theme=default)](https://github.com/gustavovncsl/)
 
 
