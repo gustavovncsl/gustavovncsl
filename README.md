@@ -1,7 +1,8 @@
-# Opa. Beleza? Sou Gustavo!
+# Opa. Beleza? Bem vindo ao meu Github!
 
 ## 🧐 Quem sou 
-• 😁 Tenho 24 anos, brasileiro e eterno aprendiz. 
+
+• 😁 **Meu nome é Gustavo Venceslau** Tenho 24 anos, brasileiro e eterno aprendiz. 
 
 • 👨🏽‍💻 **Desenvolvedor Front End** desde 2019, e apaixonado pela área.
 
