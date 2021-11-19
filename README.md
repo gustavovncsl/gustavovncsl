@@ -2,7 +2,7 @@
 
 ## 🧐 Quem sou 
 
-• 😁 **Meu nome é Gustavo Venceslau** Tenho 24 anos, brasileiro e eterno aprendiz. 
+• 😁 **Meu nome é Gustavo Venceslau**, tenho 24 anos, brasileiro e eterno aprendiz. 
 
 • 👨🏽‍💻 **Desenvolvedor Front End** desde 2019, e apaixonado pela área.
 
