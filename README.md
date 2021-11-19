@@ -1,5 +1,4 @@
 # Opa. Beleza? Sou Gustavo!
-## Seja bem vindo ao meu Github <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
 
 ## 🧐 Quem sou 
 • 😁 Tenho 24 anos, brasileiro e eterno aprendiz. 
