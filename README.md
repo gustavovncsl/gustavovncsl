@@ -22,7 +22,7 @@
 
 --- 
 #### 🧐 Onde você pode me encontrar
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vncsl/){:target="_blank" rel="noopener"}
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vncsl/)
 
 [![card](https://github-readme-stats.vercel.app/api?username=gustavovncsl&theme=default)](https://github.com/gustavovncsl/)  [![gustavovncsl](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovncsl&hide=html&layout=compact&theme=default)](https://github.com/gustavovncsl/)
 
