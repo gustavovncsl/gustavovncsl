@@ -1,4 +1,4 @@
-# Opa. Beleza? Bem vindo ao meu Github!
+# Opa, Beleza? Bem vindo ao meu Github!
 
 ## 🧐 Quem sou 
 
