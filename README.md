@@ -1,5 +1,6 @@
 # Opa, Beleza? Bem vindo ao meu Github!
-
+### Aqui você verá meus projetos e estudos.
+ 
 ## 🧐 Quem sou 
 
 • 😁 **Meu nome é Gustavo Venceslau**, tenho 24 anos, brasileiro e eterno aprendiz. 
